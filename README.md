@@ -32,10 +32,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Amitabh0954/plant-disease-detection.git
-  
 
-bash
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 Copy code
 cd plant-disease-detection
 Install the required dependencies:
